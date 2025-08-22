@@ -25,7 +25,7 @@
 <!-- Tech Stack -->
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,java,cpp,python,mysql,nodejs,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,ts,nodejs,expressjs,java,cpp,python,mysql,git,github,vscode,postman,php,idea,vercel,flutter,gcp,figma,discord" />
 </p>
 
 ---
@@ -57,12 +57,29 @@
 
 ---
 
-### ✨ Let's Connect
+## ✨ Let's Connect  
+
+<h4 align="center">
+  🌸 Always open to networking, collaboration, and new opportunities 🌸  
+</h4>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/zaveriya-khan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/zaveriya-khan" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto: khanzaveriya898@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email%20Me-red?style=for-the-badge&logo=gmail" />
+  &nbsp;&nbsp;
+  <a href="mailto:khanzaveriya898@gmail.com" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/zaveriya-khan" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://my-portfolio-link.com" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
+
+
+

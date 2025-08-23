@@ -57,8 +57,7 @@
 
 ---
 
-## ✨ Let's Connect  
-
+### ✨ Let's Connect  
 <h4 align="center">
   🌸 Always open to networking, collaboration, and new opportunities 🌸  
 </h4>

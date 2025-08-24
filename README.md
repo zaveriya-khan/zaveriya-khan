@@ -6,7 +6,10 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=F75C7E&center=true&vCenter=true&lines=Frontend+Developer;Java+%7C+DSA+Enthusiast;Open+Source+Contributor;Tech+Explorer+%F0%9F%9A%80" />
-  </a
+ </a>
+</p>
+
+---
 
 <!-- About Me -->
 ### 👩‍💻 About Me: <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
